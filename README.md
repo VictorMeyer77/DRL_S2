@@ -14,3 +14,7 @@ Dans le répertoire de chaque jeu:
 #### utilisation
 
 Toutes les entrées claviers sont à faire sur l'écran de jeu.
+
+#### attention
+
+la touche "a" peut être inversée avec la touche "q" en fonction de votre clavier
